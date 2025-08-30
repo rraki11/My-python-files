@@ -4,7 +4,7 @@ a = 25 # integer data type
 b = 5.5 # float data type <- and it is the superior
 sum = a + b
 
-print(sum) # python automatically converts to the superior data type
+print(sum) # python automatically converts to the superior data type, here that is "float" data type
 
 # type casting
 
